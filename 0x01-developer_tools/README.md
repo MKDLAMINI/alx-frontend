@@ -1,0 +1,1 @@
+Developer Tools, often abbreviated as DevTools, are a set of web authoring and debugging tools built into web browsers. They enable developers to inspect and edit the DOM (Document Object Model), debug JavaScript, analyze performance, and much more
