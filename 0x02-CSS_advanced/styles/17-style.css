@@ -366,7 +366,7 @@ html {
 }
 
 :root {
-  --color-primary: #d73959;
+  --color-primary: #d73953;
   --color-black: #090909;
   --color-white: #ffffff;
   --color-light-grey: #f3f3f3;
@@ -423,7 +423,7 @@ a:visited {
 }
 
 a:hover {
-  text-declaration: underline;
+  text-decoration: underline;
 }
 
 a:active {
