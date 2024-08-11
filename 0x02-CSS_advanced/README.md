@@ -1,0 +1,1 @@
+following up building the layout of our website with HTML from the advanced HTML project, we are now adding dynamic elements to the html layout to flesh out the website. This includes adding different colors, images and animations through advanced CSS.
