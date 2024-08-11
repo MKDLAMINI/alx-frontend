@@ -366,7 +366,7 @@ html {
 }
 
 :root {
-  --color-primary: #d73959;
+  --color-primary: #d73953;
   --color-black: #090909;
   --color-white: #ffffff;
   --color-light-grey: #f3f3f3;
@@ -385,6 +385,7 @@ html {
   --line-height-base: 1.5;
   --line-height-big: 1.8;
   --section-header-align: center;
+  --section-footer-align: center;
   --section-tagline-transform: uppercase;
   --section-title-margin: 0;
   --section-title-color: var(--color-black);
@@ -430,7 +431,7 @@ a:visited {
 }
 
 a:hover {
-  text-declaration: underline;
+  text-decoration: underline;
 }
 
 a:active {
