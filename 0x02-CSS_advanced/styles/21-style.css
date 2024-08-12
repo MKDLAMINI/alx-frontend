@@ -484,10 +484,6 @@ a:active {
   margin-right: auto;
 }
 
-.footer {
-  padding: var(--footer-padding);
-}
-
 .navbar-menu {
   float: right;
 }
@@ -517,6 +513,12 @@ a:active {
   color: var(--nav-item-link-hover);
 }
 
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 ul.row {
   margin: 0;
   padding: 0;
@@ -536,6 +538,10 @@ ul.row {
   width: 50%;
 }
 
+.footer {
+  padding: var(--footer-padding);
+}
+
 .footer-copyright {
   margin: 0;
   font-size: var(--font-size-small);
@@ -544,10 +550,4 @@ ul.row {
 
 .footer ul {
   text-align: right;
-}
-
-.row::after {
-  content: "";
-  display: table;
-  clear: both;
 }
